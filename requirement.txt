@@ -1,0 +1,5 @@
+snowflake-connector-python==3.0.2
+snowflake-sqlalchemy==1.4.7
+mysqlclient==2.1.1
+Django==4.1.4
+djangorestframework==3.14.0
